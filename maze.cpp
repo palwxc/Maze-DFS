@@ -1,5 +1,5 @@
 //Programmer: Phillip LaFrance
-//Intructor: Patrick Taylor		//Section: A		//Date: 02/19/2018
+//Instructor: Patrick Taylor		//Section: A		//Date: 02/19/2018
 //File: maze.cpp  				//Description: "Takes in a user defined maze and attempts to solve it."
 
 #include "maze.h"
