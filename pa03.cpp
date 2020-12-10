@@ -1,3 +1,7 @@
+//Programmer: Phillip LaFrance
+//Intructor: Patrick Taylor		//Section: A		//Date: 02/19/2018
+//File: pa03.cpp				//Description: "Takes in a user defined maze and attempts to solve it."
+
 #include "maze.h"
 
 int main()
