@@ -8,7 +8,7 @@ A development environment will be needed to test this project. [Code::Blocks](ht
 
 ### Testing
 
-Tests for this project can be run through the command line. Sample inputs and outputs can be found in the files:
+Tests for this project can be run through the console. Sample inputs and outputs can be found in the files:
 
 ```
 sample_input.txt
